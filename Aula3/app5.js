@@ -27,4 +27,4 @@ inserir(produto);
 
 console.log(listaProdutos);
 console.log(buscarPorId(1));
-console.log(buscarPorId(5));
+// console.log(buscarPorId(5));
