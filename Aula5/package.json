@@ -1,0 +1,17 @@
+{
+  "name": "Aula5",
+  "version": "1.0.0",
+  "description": "Aula 5",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Executando\" && node index.js",
+    "dev": "echo \"Executando Dev\" && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leonardo Azenha",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}
